@@ -6,8 +6,9 @@ body{
     align-items: center;
     height: 100vh;
     justify-content: center;
-    background-image: url("Users/HomePC/Desktop/mywebsite/images/mount_peak.jpg");
-background-size: cover;
+    background-image: url(images/mount_peak.jpg);
+    background-size: cover;
+    overflow: hidden;
 }
 
 h2{
